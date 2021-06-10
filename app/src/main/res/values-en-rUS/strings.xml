@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherStudy</string>
+    <string name="clima">Weather</string>
+    <string name="cidade">City</string>
+    <string name="mais_detalhes">More details</string>
+</resources>

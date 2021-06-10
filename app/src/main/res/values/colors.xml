@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //custom colors
+    <color name="transparent">#C9FFFFFF</color>
+    <color name="light_blue_primary">#40c4ff</color>
+    <color name="light_blue_light">#82f7ff</color>
+    <color name="light_blue_dark">#0094cc</color>
+    <color name="white">#FFFFFF</color>
+
+    //dark mode
+    <color name="transparent_dark">#C9403E3E</color>
+    <color name="grey_primary">#e0e0e0</color>
+    <color name="grey_light">#ffffff</color>
+    <color name="grey_dark">#aeaeae</color>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeatherStudy</string>
+    <string name="clima">Clima</string>
+    <string name="cidade">Cidade</string>
+    <string name="mais_detalhes">Mais detalhes</string>
+
+    <string-array name="Cidades">
+        <item>Amsterdam</item>
+        <item>Beijing</item>
+        <item>Berlin</item>
+        <item>Campinas</item>
+        <item>Dublin</item>
+        <item>Lisbon</item>
+        <item>London</item>
+        <item>Moscow</item>
+        <item>Paris</item>
+        <item>Taipei</item>
+        <item>Tokyo</item>
+        <item>Vancouver</item>
+        <item>Washington</item>
+
+
+    </string-array>
+</resources>
