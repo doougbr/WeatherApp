@@ -18,12 +18,8 @@ class MoreInfoViewModel : ViewModel() {
     // method where I'll call retrofit service and handle JSON response
     fun getCityWeather(city: String?) {
         viewModelScope.launch {
-            try {
                 val response = repository.getCityWeather(city)
                 _weather.value = response
-            } catch (e: Exception) {
-
-            }
         }
     }
 }
